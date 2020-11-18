@@ -1,4 +1,5 @@
 #libraries
+rm(list=ls())
 library(stringr)
 library(data.table)
 
